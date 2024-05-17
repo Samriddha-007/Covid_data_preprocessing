@@ -1,5 +1,8 @@
 # Covid_data_preprocessing
 This project aims to preprocess COVID-19 data for machine learning tasks. The COVID-19 pandemic has generated massive amounts of data from various sources such as government reports, research papers, and online repositories. However, this data often comes in diverse formats and may contain inconsistencies, missing values, and outliers. 
+
+
+
 Features:
 Data Collection: Utilize APIs or web scraping techniques to collect COVID-19 data from reliable sources such as the World Health Organization (WHO), Johns Hopkins University, or government health departments.
 
